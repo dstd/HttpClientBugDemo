@@ -10,6 +10,7 @@ Odd thing is that when I close the application, the polling-request won't be can
 "Zombie" is a state when it is already not alive, but yet couldn't be started once again - the system show "Loading..." message.
 
 So user experience for such application looks like this:
+
 1. User started the application
 2. User hit Back quickly right after the start, and returned to the apps list
 3. User starting the app once again
